@@ -12,7 +12,8 @@ Project 2: [My Spotify Wrap](https://www.kaggle.com/code/robertmounce/my-own-spo
 
 ![Spotify](https://www.kaggleusercontent.com/kf/189022138/eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..-lXZlEdBlHr454ZZRiUA3g.zrjJG0hsDQmpdDi82u6vYvL2aBns2w2CYfqHW3vwuUprpa98VCrwQOZWM6oTdg_KmPKAMSFdBFKBqIjON3XYETwAQi8KVxOyx1AbBiKQp2jqhRk1VAbND9XFL71Q3B2_337elAuY3K0s88QzV3JRVikB0ECEy-Ah_IWQblaa6MtZCFmY6KC4ooAQjbYeuXm6oCwwFrpPE8JqHyQIJTJjf0OfEXEOx7fFpeF6pgTnGimjTyJJQYRU9QPDYYbsVx_cd-zRUM-64fJhvYHKRrL4wJVJidADGVZ3bjwuVo-eoOq4jeiGQxwuuGt_SOwYXGkps51xcBWSXLVNSfCoEFjPTh1vjQYWy4tp4utwQW09n_Y-2hwoOaT0WM8y1AR4Zv47ZdLksWVMNpw07TP_EfmJ64hMIPFjxZkL9JuTAaYu3M-XdVfj-mrRRVyrCAwXWL3KNwdvVuwE27DDk-NxGCWLbYzkHDTwSCV5UszqMfgbKX1sEcUr6ZM4Z0IV96nvi2zKFTioqA5mAjqPScprXwG2MvdY_plRJ-YWzJW8CWoR_FGhAwyhJAAKjpVJmIUK1KOlmyAriRgxuSxSwtv0IUBS_5w9tT2PM6z4OPx7_33TADWblUsqXcFsRA1--zQGPQ9GxXvg72onszwEx_puRPLtPA.pdyqbwWKbSH_UUHyONtJIQ/__results___files/__results___39_0.png)
 
-Project 3: Economic Growth of Qatar (Excel/Tableu) 
-- Using Excel to explore for economic insights, and Tableu to display them. 
+Project 3: [Economic Growth of Qatar](https://www.kaggle.com/code/robertmounce/qatar-economics) 
+- Using Qatar data, we are using a Juptyr Notebook, to help with my research paper for my Development Economics final report.
+
  
 
