@@ -15,5 +15,4 @@ Project 2: [My Spotify Wrap](https://www.kaggle.com/code/robertmounce/my-own-spo
 Project 3: [Economic Growth of Qatar](https://www.kaggle.com/code/robertmounce/qatar-economics) 
 - Using Qatar data, we are using a Juptyr Notebook, to help with my research paper for my Development Economics final report.
 
- 
 
