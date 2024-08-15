@@ -1,10 +1,10 @@
 # Data-Portfolio
 Welcome to my Data Analytics Portfolio! This repository contains a collection of projects and resources that showcase my skills in data analysis, visualization, and statistical methods. As an Economics student at California State University, Long Beach, I am passionate about leveraging data to drive impactful economic policies and solutions.
 
-### Projects:
+## Projects:
 Welcome to my Python project portfolio! Here you'll find a collection of my data analysis and visualization projects, showcasing my skills and experience in Python. Each project highlights different aspects of my abilities, from data cleaning to exploratory data analysis (EDA).
 
-Projects
+## Key Projects
 
 1. [WFR Bike Maintenance](https://www.kaggle.com/code/robertmounce/wheel-fun-rentals-cleaning-and-analysis)
 Using maintenance data I collected during my time as a bike mechanic for North Orange County Bike Rental Company, I clean and visualize data to generate repair and attendance metrics, providing valuable insights.
